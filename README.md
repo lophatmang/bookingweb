@@ -13,6 +13,7 @@
 <h1>Deployment guide (on local)</h1>
 <ol>
   <li>Download or Clone the folder</li>
+  <li>open project in code editor </li>
   <li>open terminal on code editor</li>
   <li>run command:</li>
   <li>npm install</li>
