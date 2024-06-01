@@ -1,0 +1,30 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  h1 {
+    font-size: 2.25rem;
+    font-weight: bolder;
+    cursor: pointer;
+  }
+  button {
+    background-color: white;
+    border-radius: 6px;
+  }
+}
+
+.footer {
+  margin: 40px 0;
+
+  a {
+    padding: 15px 10px;
+    margin-right: 20px;
+    color: white;
+    span {
+      padding-left: 10px;
+    }
+  }
+  .active {
+    border-radius: 30px;
+    border: 1px solid white;
+  }
+}
