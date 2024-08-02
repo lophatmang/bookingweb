@@ -14,7 +14,7 @@ function Navbar() {
       </div>
       <div className={classes.footer}>
         {object.map((e, i) => (
-          <a key={i} className={e.active == true && classes.active} href="#">
+          <a key={i} className={e.active === true && classes.active} href="#">
             <FontAwesomeIcon icon={e.icon} />
             <span>{e.type}</span>
           </a>

@@ -1,5 +1,3 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import object from "../../data/navBar.json";
 import Navbar from "../home/Navbar";
 import Registration from "../home/Registration";
 import Footer from "../home/Footer";

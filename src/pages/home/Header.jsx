@@ -1,5 +1,5 @@
 import classes from "./Header.module.css";
-import { useState, useEffect, useRef } from "react";
+import { useState } from "react";
 import { addDays, format } from "date-fns";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import CalendarComponent from "./CalendarComponent";
